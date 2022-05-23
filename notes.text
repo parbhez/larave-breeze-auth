@@ -1,0 +1,16 @@
+
+Now we need to install npm package with the follow commadn.
+
+    1. npm install
+
+ notes: npm install ei command dile jodi kono error ase tahole niser command r moto kore likhbo.
+    3. npm install laravel-mix --save-dev
+    eta kaj na korle 
+    3. npm install laravel-mix@latest --save-dev
+
+Then again run the command 
+    8. npm run watch
+    // output Laravel Build successfull
+
+
+
